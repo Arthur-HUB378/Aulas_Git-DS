@@ -4,6 +4,10 @@ Coloque nesse arquivo, seu nome e RA.
 
 Nome: Davi Ferreira de Souza RA: 241024676
 Nome: Gabriel Uemura Naka RA: 241024773
+<<<<<<< Updated upstream
 Nome: Igor dos Reis Gomes RA: 241025265
+=======
+Nome: Mário Masao Mukai RA: 241022321
+>>>>>>> Stashed changes
 
 Obrigado.
