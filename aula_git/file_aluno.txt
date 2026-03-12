@@ -4,5 +4,6 @@ Coloque nesse arquivo, seu nome e RA.
 
 Nome: Davi Ferreira de Souza RA: 241024676
 Nome: Gabriel Uemura Naka RA: 241024773
+Nome: Igor dos Reis Gomes RA: 241025265
 
 Obrigado.
